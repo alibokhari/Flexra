@@ -1,0 +1,10 @@
+C:\Users\alibokhari\Desktop\TAL Insurance\FootballCodingChallange\FootballCodingChallange\bin\Debug\FootballCodingChallange.exe.config
+C:\Users\alibokhari\Desktop\TAL Insurance\FootballCodingChallange\FootballCodingChallange\bin\Debug\FootballCodingChallange.exe
+C:\Users\alibokhari\Desktop\TAL Insurance\FootballCodingChallange\FootballCodingChallange\bin\Debug\FootballCodingChallange.pdb
+C:\Users\alibokhari\Desktop\TAL Insurance\FootballCodingChallange\FootballCodingChallange\obj\Debug\FootballCodingChallange.frmMain.resources
+C:\Users\alibokhari\Desktop\TAL Insurance\FootballCodingChallange\FootballCodingChallange\obj\Debug\FootballCodingChallange.Properties.Resources.resources
+C:\Users\alibokhari\Desktop\TAL Insurance\FootballCodingChallange\FootballCodingChallange\obj\Debug\FootballCodingChallange.csproj.GenerateResource.cache
+C:\Users\alibokhari\Desktop\TAL Insurance\FootballCodingChallange\FootballCodingChallange\obj\Debug\FootballCodingChallange.csproj.CoreCompileInputs.cache
+C:\Users\alibokhari\Desktop\TAL Insurance\FootballCodingChallange\FootballCodingChallange\obj\Debug\FootballCodingChallange.exe
+C:\Users\alibokhari\Desktop\TAL Insurance\FootballCodingChallange\FootballCodingChallange\obj\Debug\FootballCodingChallange.pdb
+C:\Users\alibokhari\Desktop\TAL Insurance\FootballCodingChallange\FootballCodingChallange\obj\Debug\FootballCodingChallange.csprojAssemblyReference.cache

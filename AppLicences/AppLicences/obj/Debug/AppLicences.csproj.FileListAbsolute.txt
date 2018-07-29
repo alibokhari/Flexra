@@ -1,0 +1,10 @@
+C:\Users\alibokhari\Desktop\Flexera\AppLicences\AppLicences\bin\Debug\FootballCodingChallange.exe.config
+C:\Users\alibokhari\Desktop\Flexera\AppLicences\AppLicences\bin\Debug\FootballCodingChallange.exe
+C:\Users\alibokhari\Desktop\Flexera\AppLicences\AppLicences\bin\Debug\FootballCodingChallange.pdb
+C:\Users\alibokhari\Desktop\Flexera\AppLicences\AppLicences\obj\Debug\AppLicences.frmMain.resources
+C:\Users\alibokhari\Desktop\Flexera\AppLicences\AppLicences\obj\Debug\FootballCodingChallange.Properties.Resources.resources
+C:\Users\alibokhari\Desktop\Flexera\AppLicences\AppLicences\obj\Debug\AppLicences.csproj.GenerateResource.cache
+C:\Users\alibokhari\Desktop\Flexera\AppLicences\AppLicences\obj\Debug\AppLicences.csproj.CoreCompileInputs.cache
+C:\Users\alibokhari\Desktop\Flexera\AppLicences\AppLicences\obj\Debug\FootballCodingChallange.exe
+C:\Users\alibokhari\Desktop\Flexera\AppLicences\AppLicences\obj\Debug\FootballCodingChallange.pdb
+C:\Users\alibokhari\Desktop\Flexera\AppLicences\AppLicences\obj\Debug\AppLicences.csprojAssemblyReference.cache
